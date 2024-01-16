@@ -9,6 +9,6 @@ public class TestController {
     @GetMapping("/name")
     public String getName()
     {
-        return "Hi , i am krishna lilhare";
+        return "Hi , i am krishna";
     }
 }
